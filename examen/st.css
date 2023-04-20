@@ -1,0 +1,78 @@
+body{
+    margin: 500px;
+    padding: 0px;
+    background:url(mesas.jpg) ;
+    background-size: auto;
+    background-position-x: 80px;
+    font-family: sans-serif;
+    
+    background-position: relative;
+    width: 50cm;
+    top: 1000cm;
+    
+
+    
+
+}
+
+
+/*boton color negro */
+.bott1{
+
+
+    
+background-color: #746c6c; /* Green */
+border: 10cm;
+color: white;
+padding: 7px 60px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 30px;
+background-position-y: 3cm;
+
+
+-webkit-transition-duration: 0.4s; /* Safari */
+transition-duration: 0.4s;
+}
+
+/*animacion*/
+.bott1:hover {
+    background-color: #d2e9d7; /* Green */
+    color: rgba(0, 0, 0, 0.918);
+}
+
+
+
+
+
+/*boton color azul */
+.bott2{
+
+
+    
+    background-color: #3b7bdb; /* Green */
+    border: 10cm;
+    color: rgb(0, 0, 0);
+    padding: 7px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    
+    
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    }
+    
+    .bott2:hover {
+        background-color: #bc65c7; /* Green */
+        color: white;
+    }
+    
+
+
+
+
